@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BelajarCShart")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Rekursif Perhitungan")]
+[assembly: AssemblyDescription("Belajar Algoritma dengan bahasa pemrograman C#")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BelajarCShart")]
+[assembly: AssemblyCompany("Muhammad Baiquni")]
+[assembly: AssemblyProduct("Belajar CSharp")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

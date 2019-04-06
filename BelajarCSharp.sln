@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekursifPerhitungan", "Reku
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeItem", "TreeItem\TreeItem.csproj", "{EE97B83D-8399-47A4-B93C-C0868E29FF1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListItem", "ListItem\ListItem.csproj", "{CE442DEF-C81C-4D3F-A31A-9323CB405835}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EE97B83D-8399-47A4-B93C-C0868E29FF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE97B83D-8399-47A4-B93C-C0868E29FF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE97B83D-8399-47A4-B93C-C0868E29FF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE442DEF-C81C-4D3F-A31A-9323CB405835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE442DEF-C81C-4D3F-A31A-9323CB405835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE442DEF-C81C-4D3F-A31A-9323CB405835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE442DEF-C81C-4D3F-A31A-9323CB405835}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
